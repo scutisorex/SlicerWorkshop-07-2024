@@ -8,8 +8,9 @@ I noted this previously, but it really helps to have a 3-button mouse for manipu
 If you can, double check that the computer you will be using has the appropriate specs for running 3DSlicer, listed [here](https://www.slicer.org/wiki/Documentation/4.8/SlicerApplication/HardwareConfiguration).
 
 ### **DOWNLOAD AND INSTALL SOFTWARE:**
-Slicer 5.6.2, the stable version - NOT the preview release. Download it for your OS [here](https://download.slicer.org/) and install it before the workshop. Open it to make sure you installed it correctly. It’s pretty important that you come with the program already installed so that we can jump right in to learning!
-MeshLab 2023.12, which is a free, open-source, lightweight  mesh editor that will run on pretty much any computer. Download it for your OS [here](https://www.meshlab.net/#download). 
+First: please install **3DSlicer 5.6.2**, the stable version - NOT the preview release. Download it for your OS [here](https://download.slicer.org/) and install it before the workshop. Open it to make sure you installed it correctly. It’s pretty important that you come with the program already installed so that we can jump right in to learning!
+
+Please also install **MeshLab 2023.12**, which is a free, open-source, lightweight  mesh editor that will run on pretty much any computer. Download it for your OS [here](https://www.meshlab.net/#download). 
 
 ### **INSTALL SLICERMORPH EXTENSION:**
 We will be making extensive use of the SlicerMorph extension during our workshop. Use the instructions on [the front page of the SlicerMorph github](https://github.com/SlicerMorph) to install the extension. I also suggest you check out the open-access [Methods in Ecology and Evolution paper](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13669) to learn a little about what the module can do.

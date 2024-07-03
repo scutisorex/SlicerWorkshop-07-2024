@@ -19,7 +19,7 @@ I made a Dropbox folder of a few fun items for you to play with during the works
 You can also take a look around the [SlicerMorph github](https://github.com/SlicerMorph) and the [Slicer Discourse](https://discourse.slicer.org/). If you’re planning to use Slicer for your work moving forward, having an account on the Discourse will definitely pay off, so feel free to set that up as well.
 
 ## **A couple additional notes:**
-- If you don’t have a museum badge, someone will need to sign you in. Please tell me as soon as possible if you don’t have a badge (students/visitors/non-museum interns/whatever). I will arrange for someone to sign you in at the West entrance when you get to the museum.
+- If you don’t have a museum badge, someone will need to sign you in. **Please tell me as soon as possible if you don’t have a badge** (students/visitors/non-museum interns/whatever). I will arrange for someone to sign you in at the West entrance when you get to the museum.
 - **Lunch/snacks will NOT be provided.** Please bring your own lunch and snacks! 
 - Please remember to bring the charger for your computer. It will definitely be required, especially for the all-day session.
 - Don’t forget - it’s important to be there for all three days. Especially the first two days, as they will build on each other and will move at a quick pace to get lots of info in. **If there is some reason you can’t be there all three days, let me know as soon as possible.**

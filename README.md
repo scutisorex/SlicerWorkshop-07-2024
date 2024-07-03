@@ -1,4 +1,4 @@
-# 3DSLICER WORKSHOP JULY 2024 
+# 3D SLICER WORKSHOP JULY 2024 
 
 Hi everybody, and welcome to the main page for our 3DSlicer/SlicerMorph workshop! Thanks for joining me to learn about how to make this set of powerful tools work for you.
 

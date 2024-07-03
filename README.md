@@ -18,7 +18,7 @@ By the end of this workshop, you will:
 
 10-11am: Welcome, setup, introduction to the course and 3D data types
 
-11-12:30pm: Slicer basics and segmentation (see tutorials here)
+11-12:30pm: Slicer basics and segmentation
 
 12:30-1:30pm: Lunchtime!
 

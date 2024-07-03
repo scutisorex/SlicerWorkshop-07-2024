@@ -3,6 +3,7 @@
 Hi everybody, and welcome to the main page for our 3DSlicer/SlicerMorph workshop! Thanks for joining me to learn about how to make this set of powerful tools work for you.
 
 ## Learning objectives:
+
 By the end of this workshop, you will:
 - Understand the basic structure of different kinds of 3D data you might work on in Slicer
 - Feel comfortable with navigating the Slicer interface and be able to install, open, and update modules
@@ -12,6 +13,7 @@ By the end of this workshop, you will:
 - Understand how to expand your knowledge of Slicer moving forward, and become familiar with the many Slicer community resources
 
 ## Tentative schedule
+
 ### Day 1: July 10, 10am-4:30pm
 
 10-11am: Welcome, setup, introduction to the course and 3D data types
@@ -35,6 +37,7 @@ By the end of this workshop, you will:
 9am-12pm: TBA, based on what people want to learn after the first two days!
 
 ## Slicer and SlicerMorph Citations
+
 To cite 3D Slicer as a general purpose biomedical visualization platform, please use: Kikinis, R., Pieper, S. D., & Vosburgh, K. G. (2014). 3D Slicer: A Platform for Subject-Specific Image Analysis, Visualization, and Clinical Support. In Intraoperative Imaging and Image-Guided Therapy (pp. 277–289). Springer, New York, NY. https://doi.org/10.1007/978-1-4614-7657-3_19
 
 If you use SlicerMorph in your research, please cite one or more of these publications.

@@ -12,6 +12,13 @@ First: please install **3DSlicer 5.6.2**, the stable version - NOT the preview r
 
 Please also install **MeshLab 2023.12**, which is a free, open-source, lightweight  mesh editor that will run on pretty much any computer. Download it for your OS [here](https://www.meshlab.net/#download). 
 
+## NEW AS OF 07.08.2024: 
+
+Please install a good text editor on your computer, for looking at text files that are inputs and outputs of geometric morphometric analyses. Regular Notepad kind of sucks for looking at formatted code, so try these:
+- Windows: [Notepad++](https://notepad-plus-plus.org/downloads/). Good logo... the best logo? Perhaps.
+- Mac: [BBEdit](https://www.barebones.com/products/bbedit/) (Please note that the tagline for BBEdit is "It doesn’t suck.®" which handily solves the problem of sucking, mentioned above)
+- Linux: I haven't used this one but [Vim](https://www.vim.org/) seems to have curried the favor of the internet, so give that one a shot.
+
 ### **INSTALL SLICERMORPH EXTENSION:**
 We will be making extensive use of the SlicerMorph extension during our workshop. Use the instructions on [the front page of the SlicerMorph github](https://github.com/SlicerMorph) to install the extension. I also suggest you check out the open-access [Methods in Ecology and Evolution paper](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13669) to learn a little about what the module can do.
 

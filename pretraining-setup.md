@@ -14,7 +14,7 @@ Please also install **MeshLab 2023.12**, which is a free, open-source, lightweig
 
 ## NEW AS OF 07.08.2024: 
 
-Please install a good text editor on your computer, for looking at text files that are inputs and outputs of geometric morphometric analyses. Regular Notepad kind of sucks for looking at formatted code, so try these:
+Please install **a good text editor** on your computer, for looking at text files that are inputs and outputs of geometric morphometric analyses. Regular Notepad kind of sucks for looking at formatted code, so try these:
 - Windows: [Notepad++](https://notepad-plus-plus.org/downloads/). Good logo... the best logo? Perhaps.
 - Mac: [BBEdit](https://www.barebones.com/products/bbedit/) (Please note that the tagline for BBEdit is "It doesn’t suck.®" which handily solves the problem of sucking, mentioned above)
 - Linux: I haven't used this one but [Vim](https://www.vim.org/) seems to have curried the favor of the internet, so give that one a shot.

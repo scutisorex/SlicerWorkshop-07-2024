@@ -46,11 +46,10 @@ image files that are numbered and go together to form a 3D volume. Work through 
 ## Slicer module exploration and visualization
 
 Let's look at some of the important modules in Slicer using one of the sample volume data sets we just opened. If you have your own volumetric data, you can also try importing it now, in whatever format you have (DICOM or image stack; save your surface scanned models until a little later!). You can also try importing and working on [this volume data](https://drive.google.com/file/d/1LLCsZEND9LMf83WInAXXjp7WM_6t5HRd/view?usp=sharing), which you may recognize from earlier today. Open your data set in each one of these modules and see what you can do with it. 
-- NOTE! If you have a file that has a surface texture
-
-- Transforms!!!!!!!!!!!!!
-
+ 
+Some modules to check out:
 - [Volume Rendering](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_2/VolumeRendering/VolumeRendering.md): This is the basics of how to view and customize your volume.
+- [Transforms](https://slicer.readthedocs.io/en/latest/user_guide/modules/transforms.html): It's often useful to be able to reposition your object in the scene. Maybe you want to arrange it so its anatomical axes are aligned with those of the scene, or move it closer to another object, or rotate it relative to a markup of some kind. Whatever! Try making and hardening some transforms.
 - [Animation](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_2/SlicerAnimator/SlicerAnimator.md): Fundamentals of how to make a little movie of your item.
 - [Lighting](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_2/Lighting/Lights.md): This is an additional tool to make your volumes look nice. It's in an extension called **Sandbox**. If you don't have it installed, this is a great opportunity to practice installing a new extension!
 

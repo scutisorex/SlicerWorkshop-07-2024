@@ -2,7 +2,7 @@
 
 ## Pre-workshop
 
-Everyone should have Slicer and SlicerMorph installed using the pre-workshop instructions. If you haven't done that, the instructions are [here](https://github.com/scutisorex/SlicerWorkshop-07-2024/blob/81fc53fb00738872028daacf6fdbd6bbfc733abb/pretraining-setup.md).
+Everyone should have Slicer and SlicerMorph installed using the pre-workshop instructions. If you haven't done that, the instructions are [here](https://github.com/scutisorex/SlicerWorkshop-07-2024/blob/main/pretraining-setup.md).
 
 ## Slicer UI and file types
 

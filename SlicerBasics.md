@@ -59,11 +59,11 @@ Some modules to check out:
 
 Now it's time to learn one of the most important functions in Slicer: segmentation. This is where you separate an image into different parts and label them. In this case, we will be labeling a 3D volume, which consists of a whole bunch of 2D images. If this is your first time ever segmenting, or if you want more in-depth info or a refresher, check out [the official Slicer segmentation documentation.](https://slicer.readthedocs.io/en/latest/user_guide/image_segmentation.html) It's super informative and clear.
 
+- Before you start segmenting, make sure you have the Sandbox extension installed. This will allow you to use the [Segment Editor Extra Effects](https://github.com/lassoan/SlicerSegmentEditorExtraEffects), which are extremely useful. They are covered in the tutorial below. Also install the [SurfaceWrapSolidify](https://github.com/sebastianandress/Slicer-SurfaceWrapSolidify) extension! 
+
 - There are an absurd number of different ways to approach segmentation, and we can't cover all of them. However, we can get through the basic functions in Slicer using [this excellent tutorial put together by the SlicerMorph team.](https://github.com/SlicerMorph/Tutorials/tree/main/Segmentation) Work through it at your own pace, and try to experiment with as many of the tools as you can. They show their examples with the "MRBrainTumor1" sample data set, but you can test out the segmentation tools on any of the data sets we have looked at so far, or any of the data sets in the Sample Data module. Or, if you have your own data with you, feel free to use that!
 
 - I would also encourage you to take a look at the descriptions of segmentation tools in the official Slicer [Segment Editor documentation](https://slicer.readthedocs.io/en/latest/user_guide/modules/segmenteditor.html).
-
-- Are you still hungry for more??!?!? (of course you are!) Check out the [Segment Editor Extra Effects](https://github.com/lassoan/SlicerSegmentEditorExtraEffects) (you will need to install the relevant extension). These are not in the main Segment Editor module for various reasons but they might serve your purposes nicely.
 
 - After you've done some segmentation, try out the [Colorize Volume](https://github.com/SlicerMorph/Tutorials/tree/main/ColorizeVolume) module, which is in the Sandbox extension we installed above. It makes stunning 3D renderings of the volume with color labeled by segment. You're gonna like it, I bet. 
 

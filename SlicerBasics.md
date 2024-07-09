@@ -2,7 +2,7 @@
 
 ## Pre-workshop
 
-Everyone should have Slicer and SlicerMorph installed using the pre-workshop instructions. If you haven't done that, the instructions are [here](https://github.com/scutisorex/SlicerWorkshop-07-2024/blob/81fc53fb00738872028daacf6fdbd6bbfc733abb/pretraining-setup.md).
+Everyone should have Slicer and SlicerMorph installed using the pre-workshop instructions. If you haven't done that, the instructions are [here](https://github.com/scutisorex/SlicerWorkshop-07-2024/blob/main/pretraining-setup.md).
 
 ## Slicer UI and file types
 
@@ -76,3 +76,5 @@ Slicer is not incredible as a mesh editor, but you can accomplish some basic stu
 Import the 3D mesh of a shrew vertebra listed above and try out some of the functions in the [Surface Toolbox](https://slicer.readthedocs.io/en/latest/user_guide/modules/surfacetoolbox.html) module. I have found the smoothing and mirroring tools to be especially useful for my work!
 
 ALSO - there are a number of extensions available for doing specific edits to meshes. Try and see if you can find one by going to the Extension Manager and searching "mesh".
+
+Import the 3D mesh of a shrew vertebra listed above and try out some of the functions in the [Surface Toolbox](https://slicer.readthedocs.io/en/latest/user_guide/modules/surfacetoolbox.html) module. I have found the smoothing and mirroring tools to be especially useful for my purposes!

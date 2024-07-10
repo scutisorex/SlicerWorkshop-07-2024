@@ -35,6 +35,8 @@ Everyone should have Slicer and SlicerMorph installed using the pre-workshop ins
 
 As we discussed in the introductory presentation and chat, there are a couple data types you might want to use. 
 
+NOTE!! Download SlicerMorph datasets [here](https://github.com/SlicerMorph/SampleData/#sampledata).
+
 **First, let's look at CT/volume data.** There are two main file types you're gonna run into:
 - DICOM stacks. These are commonly used in medical imaging, so if you get data from a medical scanner (if you stick a whole mummy in there or whatever), it might be this format. Work through [this tutorial](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/DICOM/DICOM.md) on how to import a DICOM stack. It uses a dataset from MorphoSource [(ouvc:10681 Chelydra serpentina)](https://www.morphosource.org/concern/biological_specimens/000S22699), which you can grab [here](https://drive.google.com/file/d/1s9qtpCGheXVr1I85jxA-MedDwAEucE8Q/view?usp=sharing).
     - **PSA!** If you use MorphoSource specimens for any of your research, make sure you [cite  the data you use!!!](https://www.morphosource.org/assets/ms_usage_std_comm_no_rearc_any_3d_limited-6825f6b0844a909f36f31f4b49aacf473a24694ff229c55b19c1cb5b2fe60f01.pdf) It helps not just MorphoSource, but also the collection that the data came from, and the person who originally collected the data.  

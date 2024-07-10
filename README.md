@@ -2,6 +2,10 @@
 
 Hi everybody, and welcome to the main page for our 3DSlicer/SlicerMorph workshop! Thanks for joining me to learn about how to make this set of powerful tools work for you.
 
+<p align = "center">
+<img src="images/radshrew.png">
+</p>
+
 ## Learning objectives:
 
 By the end of this workshop, you will:
